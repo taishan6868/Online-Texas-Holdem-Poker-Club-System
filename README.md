@@ -161,8 +161,8 @@ cd Server && make
 - **功能介绍视频**：联系获取
 - **完整文档**：含API、部署、定制开发指南
 
-📱 **Telegram**：[@alibabama401](https://t.me/alibabama401)  
-📧 **Email**：ttpoker733@gmail.com
+📱 **Telegram**：[@xuzongbin001](https://t.me/xuzongbin001)  
+📧 **Email**：yueb29266@gmail.com
 
 ## 📜 许可证与商用说明
 
