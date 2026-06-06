@@ -1,5 +1,5 @@
 # Online-Texas-Holdem-Poker-Club-System
-德州源码 | 德州扑克源码 |德州扑克|德州扑克完整解决方案：Unity客户端 + C++高并发服务端 | 支持俱乐部/联盟/MTT/SNG，Online Texas Hold'em Poker Platform | Club System | Tournament | Unity + C++ | iOS Android H5，
+德州源码 | 德州扑克源码 |德州源碼 | 德州撲克源碼|德州扑克|德州扑克完整解决方案：Unity客户端 + C++高并发服务端 | 支持俱乐部/联盟/MTT/SNG，Online Texas Hold'em Poker Platform | Club System | Tournament | Unity + C++ | iOS Android H5，
 # 🃏 德州扑克完整解决方案 |德州扑克源码|德州撲克|德撲源碼|德州源碼|德州俱樂部源碼|Texas Hold'em Poker Complete Solution
 
 > **Unity客户端 + C++高并发服务端 | 支持俱乐部、代理联盟、私人局、MTT/SNG锦标赛 | 可用于技术研究与合法竞技**
